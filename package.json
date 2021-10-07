@@ -1,0 +1,22 @@
+{
+  "name": "private-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waiscodes/private-blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waiscodes/private-blockchain/issues"
+  },
+  "homepage": "https://github.com/waiscodes/private-blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
