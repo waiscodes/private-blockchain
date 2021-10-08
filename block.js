@@ -3,7 +3,7 @@ class Block {
         this.hash,
         this.height,
         this.tx = data,
-        this.time = new Date(),
+        this.time,
         this.previousBlockHash
     }
 }
